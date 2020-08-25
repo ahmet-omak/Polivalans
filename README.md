@@ -1,4 +1,4 @@
-# SendEMail
+# Polivalans
 
 # What It Is For
 This repository is one of the five forms developed on the behalf of "Kalmaksan Kalıp" held in Manisa.
