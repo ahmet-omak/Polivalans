@@ -1,0 +1,36 @@
+C:\Users\Levent\Desktop\Polivalans\Polivalans\bin\Debug\Polivalans.exe.config
+C:\Users\Levent\Desktop\Polivalans\Polivalans\bin\Debug\Polivalans.exe
+C:\Users\Levent\Desktop\Polivalans\Polivalans\bin\Debug\Polivalans.pdb
+C:\Users\Levent\Desktop\Polivalans\Polivalans\obj\Debug\Polivalans.csprojResolveAssemblyReference.cache
+C:\Users\Levent\Desktop\Polivalans\Polivalans\obj\Debug\Polivalans.Form1.resources
+C:\Users\Levent\Desktop\Polivalans\Polivalans\obj\Debug\Polivalans.Properties.Resources.resources
+C:\Users\Levent\Desktop\Polivalans\Polivalans\obj\Debug\Polivalans.csproj.GenerateResource.Cache
+C:\Users\Levent\Desktop\Polivalans\Polivalans\obj\Debug\Polivalans.exe
+C:\Users\Levent\Desktop\Polivalans\Polivalans\obj\Debug\Polivalans.pdb
+C:\Users\Levent\Desktop\Polivalans\Polivalans\obj\Debug\Polivalans.Form2.resources
+C:\Users\Levent\Desktop\Polivalans\Polivalans\obj\Debug\Polivalans.Form3.resources
+C:\Users\Levent\Desktop\Polivalans\Polivalans\obj\Debug\Polivalans.Form4.resources
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\bin\Debug\Polivalans.exe.config
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\bin\Debug\Polivalans.exe
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\bin\Debug\Polivalans.pdb
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.csprojAssemblyReference.cache
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.Form1.resources
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.Form2.resources
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.Form3.resources
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.Form4.resources
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.Properties.Resources.resources
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.csproj.GenerateResource.cache
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.csproj.CoreCompileInputs.cache
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.exe
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.pdb
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Bitmiş Hali\Polivalans\obj\Debug\Polivalans.Form5.resources
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Mail Gönderme\Polivalans\bin\Debug\Polivalans.exe.config
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Mail Gönderme\Polivalans\bin\Debug\Polivalans.exe
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Mail Gönderme\Polivalans\bin\Debug\Polivalans.pdb
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Mail Gönderme\Polivalans\obj\Debug\Polivalans.csprojAssemblyReference.cache
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Mail Gönderme\Polivalans\obj\Debug\Polivalans.Form5.resources
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Mail Gönderme\Polivalans\obj\Debug\Polivalans.Properties.Resources.resources
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Mail Gönderme\Polivalans\obj\Debug\Polivalans.csproj.GenerateResource.cache
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Mail Gönderme\Polivalans\obj\Debug\Polivalans.csproj.CoreCompileInputs.cache
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Mail Gönderme\Polivalans\obj\Debug\Polivalans.exe
+C:\Users\tulay\OneDrive\Desktop\.Net\Polivalans - Mail Gönderme\Polivalans\obj\Debug\Polivalans.pdb
